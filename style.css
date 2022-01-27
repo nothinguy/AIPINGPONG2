@@ -1,0 +1,19 @@
+
+
+
+h1{
+    color:Yellow;
+}
+
+
+#footer {
+
+    position:fixed;
+    bottom:0;
+    width:100%;
+    color:aquamarine;
+    text-align:center;
+    text-shadow: 3px 3px 3px black;
+    font-size: 22px;
+    background-color:grey;
+}
